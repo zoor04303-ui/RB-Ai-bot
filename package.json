@@ -1,0 +1,14 @@
+{
+  "name": "rb-ai-bot",
+  "version": "1.0.0",
+  "description": "Saudi AI sales assistant for Salla stores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5"
+  }
+}
