@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Saudi AI sales assistant for Salla stores",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
